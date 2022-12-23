@@ -3,6 +3,6 @@ repeat wait() until game:IsLoaded()
 wait(15)
 
 if game.PlaceId == 9224601490 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nowan16/Fruit-Battlegrounds/main/Fruit%20Battleground"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nowan16/Fruit-Battlegrounds/main/Fruit%20Battelground"))()
 end
    
