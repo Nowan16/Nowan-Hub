@@ -6,7 +6,7 @@ if game.Players.LocalPlayer then
     if game.PlaceId == 9224601490 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Nowan16/Fruit-Battlegrounds/main/Fruit%20Battelground"))()
     elseif game.PlaceId == 6918802270 then
-        print("Work in Progress")
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Nowan16/Project-New-World/main/PNW"))()
     else
         print("Game is not Supported")
     end
